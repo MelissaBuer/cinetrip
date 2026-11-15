@@ -1,2 +1,2 @@
 # cinetrip
-Projeto em Flutter
+Protótipo Flutter do app CineTrip
